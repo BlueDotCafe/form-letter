@@ -1,0 +1,28 @@
+#story {
+  display: none;
+}
+
+body {
+  background-color: #f0deca;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 40;
+  font-weight: lighter;
+  color: #e2351a;
+}
+
+p {
+  font-family: cursive;
+  font-size: 17pt;
+  font-weight: normal;
+  color: rgba(34, 82, 16, 0.77);
+}
+
+.box {
+    border: 5px solid rgba(34, 82, 16, 0.77);
+    padding: 50px;
+    margin: 40px;
+
+}
